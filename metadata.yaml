@@ -1,0 +1,35 @@
+_repo: The-Expositor-s-Bible-The-Epistle-of-St-Paul-to-the-Romans_48858
+contributor:
+  creator:
+    editor:
+      agent_name: Nicoll, W. Robertson (William Robertson), Sir
+      aliases:
+      - Wace, Walter E.
+      - Nicoll, William Robertson, Sir
+      - Clear, Claudius
+      birthdate: 1851
+      deathdate: 1923
+      gutenberg_agent_id: '36133'
+      url: http://www.gutenberg.org/2009/agents/36133
+creator:
+  author:
+    agent_name: Moule, H. C. G. (Handley Carr Glyn)
+    aliases:
+    - Moule, Handley C. G. (Handley Carr Glyn)
+    - Moule, Handley Carr Glyn, Bp. of Durham
+    birthdate: 1841
+    deathdate: 1920
+    gutenberg_agent_id: '25684'
+    url: http://www.gutenberg.org/2009/agents/25684
+    wikipedia: http://en.wikipedia.org/wiki/Handley_Moule
+description: ''
+gutenberg_issued: '2015-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Expositor''s Bible: The Epistle of St Paul to the Romans'
+url: http://www.gutenberg.org/ebooks/48858
