@@ -37,5 +37,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Expositor''s Bible: The Epistle of St Paul to the Romans'
 url: http://www.gutenberg.org/ebooks/48858
